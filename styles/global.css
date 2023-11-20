@@ -1,0 +1,18 @@
+:root {
+    /* font-family  */
+    --inter: Inter, sans-serif;
+    --montserrat: Montserrat, sans-serif;
+
+    /* Colors */
+    --white: #E4E5EA;
+    --grey: #656566;
+
+    /* font-size  */
+    --font-base: 16px;
+    --font-small: 14px;
+    --font-big: 18px;
+    /* font-size media */
+    --font-base-media: 14px;
+    --font-small-media: 12px;
+    --font-big-media: 16px;
+}
